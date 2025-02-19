@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Nuxt projects
+- 🌱 I’m currently learning Nuxt advanced topics, IA topics, ...
+- 👯 I’m looking to collaborate on IA, SIM Racing, Poker projects
+
+<img src="https://codeium.com/profile/jonathan-juhasz/card.png" width="500" />
+
 <!--
 **jonathan-lws/jonathan-lws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
