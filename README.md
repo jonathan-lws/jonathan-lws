@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on IA, SIM Racing, Poker projects
 
 <img src="https://codeium.com/profile/jonathan-juhasz/card.png" width="500" />
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathan-lws&theme=github-dark-blue&hide_border=true&locale=fr&short_numbers=true&card_width=500&background=EBEBEB00" alt="GitHub Streak" /></a>
 <!--
 **jonathan-lws/jonathan-lws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
